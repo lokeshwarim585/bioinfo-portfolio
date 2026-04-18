@@ -122,7 +122,7 @@ cd bioinformatics-portfolio
 
 ## 👤 Author
 
-LOkeshwari M — 
+Lokeshwari M
 lokeshwarim585@gmail.com
 ---
 
