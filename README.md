@@ -122,8 +122,8 @@ cd bioinformatics-portfolio
 
 ## 👤 Author
 
-[Your Name] — [Your email or LinkedIn URL]
-
+LOkeshwari M — 
+lokeshwarim585@gmail.com
 ---
 
 *This is a learning portfolio. Scripts are intentionally well-commented for readability.*
